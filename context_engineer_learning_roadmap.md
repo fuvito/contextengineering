@@ -35,7 +35,8 @@
 - [ ] Use LangChain or LlamaIndex for context pipelines  
   - 📺 [Video: LangChain Crash Course](https://www.youtube.com/watch?v=UgF3v6Ra3xc)  
 - [x] Work with vector databases (e.g., FAISS, Pinecone)  
-  - 📺 [Video: Vector Databases Explained](https://www.youtube.com/watch?v=5pCqZ4cWjJU)  
+  - 📺 [What is a Vector Database? Powering Semantic Search & AI Applications](https://youtu.be/gl1r1XV0SLw?si=kgOwtKNVAzLGMOPy)
+  - 📺 [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)  
 - [ ] Implement tool use and function calling  
   - 📺 [Video: Function Calling with OpenAI](https://www.youtube.com/watch?v=hNehcrY4Wzc)  
 - [ ] Manage memory and session state  
