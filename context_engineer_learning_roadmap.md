@@ -34,7 +34,7 @@
 
 - [ ] Use LangChain or LlamaIndex for context pipelines  
   - 📺 [Video: LangChain Crash Course](https://www.youtube.com/watch?v=UgF3v6Ra3xc)  
-- [ ] Work with vector databases (e.g., FAISS, Pinecone)  
+- [x] Work with vector databases (e.g., FAISS, Pinecone)  
   - 📺 [Video: Vector Databases Explained](https://www.youtube.com/watch?v=5pCqZ4cWjJU)  
 - [ ] Implement tool use and function calling  
   - 📺 [Video: Function Calling with OpenAI](https://www.youtube.com/watch?v=hNehcrY4Wzc)  
